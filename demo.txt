@@ -1,0 +1,5 @@
+1. python3 processorSuite.py lightenShadows clouds.ppm l1.ppm 40
+2. python3 processorSuite.py contrast obi.ppm c1.ppm 20
+3. python3 processorSuite.py saturate snow.ppm s1.ppm 20
+4. python3 watermark.py doggos.ppm dogspottinglink.ppm wm1.ppm 100 850 450
+5. python3 watermark.py obi.ppm copyrightKR.ppm wm2.ppm 50 400 500
